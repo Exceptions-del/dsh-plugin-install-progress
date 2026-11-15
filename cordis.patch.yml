@@ -1,0 +1,3 @@
+- insert:
+    - id: plugin-install-progress
+      name: '@local/plugin-install-progress'

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Download and install progress",
+    "description": "Shows a progress card above the message box while the agent installs a DSH plugin with the plugin_manager tool, and while it downloads a large file with the download_file tool this plugin adds. The card names the package or file, tracks pnpm package progress or transferred bytes as a percentage, reports throughput, applying changes and the outcome, then retires itself after a few seconds. Installs you start on the Plugins page keep their own dialog. Shell downloaders such as curl and wget cannot report progress through DSH, so large files should be fetched with download_file.",
+    "detail": "docs/DETAIL.md"
+  }
+}

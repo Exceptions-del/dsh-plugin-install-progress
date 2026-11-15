@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "下载与安装进度条",
+    "description": "当智能体用 plugin_manager 安装 DSH 插件，或用本插件新增的 download_file 工具下载大文件时，在输入框上方显示进度卡片：显示包名或文件名、按 pnpm 包进度或已传输字节换算的百分比、传输速率、应用更改阶段和最终结果，结束后几秒自动消失。在“插件”页面手动发起的安装仍使用原有对话框。curl、wget 等终端下载无法通过 DSH 上报进度，大文件请用 download_file 下载。",
+    "detail": "docs/DETAIL.zh.md"
+  }
+}
